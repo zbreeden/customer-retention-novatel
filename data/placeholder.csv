@@ -1,0 +1,4 @@
+customer_id,tenure,monthly_charges,churn
+1001,12,89.99,Yes
+1002,24,75.50,No
+1003,6,99.00,Yes
